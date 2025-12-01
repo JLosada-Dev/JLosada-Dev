@@ -1,7 +1,7 @@
 # Jose David Losada Legarda | Full Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Full+Stack+Developer+%7C+Angular+%2B+React+%2B+Node.js;IoT+Integration+%7C+AI+Applications;Building+Scalable+Web+Solutions" alt="Professional Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Full+Stack+Developer+%7C+Angular+%2B+React+%2B+Node.js;Building+Scalable+Web+Applications" alt="Professional Introduction" />
 </div>
 
 ---
@@ -25,6 +25,8 @@ Ingeniero de Sistemas especializado en desarrollo Full Stack con Angular, React 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Backend
@@ -32,75 +34,24 @@ Ingeniero de Sistemas especializado en desarrollo Full Stack con Angular, React 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### Database & Tools
+### Database
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### Tools & Others
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-
-### IoT & AI/ML
-<p align="left">
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
----
-
-## 🎯 Featured Projects
-
-### 🐄 [HatoVerde - Cattle Management System](https://github.com/JLosada-Dev/hatoverdeApi)
-**Full Stack | IoT Integration**  
-Sistema integral para gestión de producción lechera con integración IoT en tiempo real.
-
-- **Frontend:** Angular 19, Signals, TailwindCSS
-- **Backend:** Node.js, Express, PostgreSQL, Sequelize
-- **IoT:** ESP32, WebSockets para comunicación en tiempo real
-- **Features:** Dashboard de producción, análisis predictivo, configuración remota de dispositivos
-
-**Tech:** `Angular` `Node.js` `PostgreSQL` `ESP32` `WebSockets` `JWT`
-
----
-
-### 🦺 EPP-Detector - AI Safety Equipment Detection
-**AI/ML | Computer Vision**  
-Sistema de detección de equipos de protección personal usando visión por computadora.
-
-- **Backend:** FastAPI, PyTorch, YOLO models
-- **Frontend:** Angular, WebSockets para detección en tiempo real
-- **AI:** RAG con FAISS, Transformers para consultas normativas
-- **Features:** Detección vía webcam, análisis de video, reportes automáticos
-
-**Tech:** `FastAPI` `PyTorch` `YOLO` `Angular` `FAISS` `OpenCV`
-
----
-
-### 🏢 Property Management System
-**Full Stack CRUD**  
-Sistema completo de gestión inmobiliaria con búsqueda avanzada.
-
-- **Backend:** PHP con arquitectura MVC, MySQL
-- **Frontend:** HTML5, CSS3, JavaScript vanilla
-- **Features:** Sistema de filtros, gestión de contratos, optimización de consultas
-
-**Tech:** `PHP` `MySQL` `JavaScript` `HTML/CSS`
-
----
-
-### 🛒 [Shopping Cart](https://whimsical-jelly-ba2c03.netlify.app/)
-**React | State Management**  
-Carrito de compras interactivo con gestión de estado global.
-
-- **Frontend:** React, Context API
-- **Features:** Persistencia con LocalStorage, cálculo dinámico, diseño responsive
-- **UI:** TailwindCSS
-
-**Tech:** `React` `Context API` `TailwindCSS` `LocalStorage`
 
 ---
 
@@ -127,26 +78,6 @@ Carrito de compras interactivo con gestión de estado global.
 - **Curso Profesional de Git y GitHub** - Platzi (2024)
 
 [Ver todos los certificados →](https://platzi.com/p/joselosadalg/)
-
----
-
-## 🌱 Currently Learning
-
-- 🔄 Microservicios con Node.js
-- 🔐 Seguridad en aplicaciones web
-- 📊 Análisis de datos con Python
-- ☁️ Cloud computing (AWS)
-
----
-
-## 💼 Professional Experience
-
-**Monitor Académico**  
-*Fundación Universitaria de Popayán* | Feb 2024 - Presente
-
-- Instructor del curso de Educación Continua de Fundamentos de Desarrollo Web Frontend
-- Asesoría académica en programación y matemáticas
-- Desarrollo de material pedagógico estructurado
 
 ---
 
