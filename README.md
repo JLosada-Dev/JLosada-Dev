@@ -1,8 +1,6 @@
 # Jose David Losada Legarda
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+%7C+React+%7C+Node.js" alt="Typing Animation" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2563EB&width=600&lines=Full+Stack+Developer;Angular+%7C+React+%7C+Node.js" alt="Typing Animation" />
 
 ---
 
@@ -13,8 +11,6 @@ Ingeniero de Sistemas especializado en desarrollo Full Stack con Angular, React 
 ---
 
 ## 💻 Tech Stack
-
-<div align="center">
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -39,36 +35,17 @@ Ingeniero de Sistemas especializado en desarrollo Full Stack con Angular, React 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLosada-Dev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLosada-Dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
-
 ---
 
 ## 📫 Connect
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlosada-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jd.losada.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JLosada-Dev)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JLosadaDev)
 
-</div>
-
 ---
 
-<div align="center">
-  
 **Building scalable solutions with clean code**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JLosada-Dev&style=flat-square&color=2563EB)
-
-</div>
